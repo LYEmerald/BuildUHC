@@ -1,0 +1,15 @@
+name: BuildUHC
+main: net.endlight.buhc.GameDemoMain
+version: 1.0.2
+api:
+  - 1.0.11
+  - 3.0.0
+author: EmeraldGames Team
+load: POSTWORLD
+description: "EmeraldGames Build UHC for Nukkit"
+
+softdepend:
+  - ScoreboardPlugin
+
+loadbefore:
+  - ScoreboardPlugin

@@ -1,0 +1,18 @@
+title: "&l&f[DUEL]"
+
+scoreboard-title: "&l&e决斗游戏"
+
+# 是否保存玩家背包
+save-playerInventory:  true
+
+
+
+game-logo: "&eendlightstudio.xyz"
+
+join-menu:
+  决斗游戏:
+    buttonImg:
+      type: "path"
+      path: ""
+    rooms:
+      - 游戏房间

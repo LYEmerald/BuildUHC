@@ -1,0 +1,29 @@
+world: ""
+gameTime: 1200
+callbackY: 17
+reSpawnTime: 5
+deathDrop: true
+hasWatch: true
+waitTime: 60
+max-player-waitTime: 10
+minPlayerSize: 2
+maxPlayerSize: 2
+teamSpawn: {}
+waitPosition: ""
+ban-command: []
+QuitRoom: []
+AutomaticNextRound: false
+victoryCmd: []
+defeatCmd: []
+roundChest: false
+# 禁止破坏的方块
+ban-break:
+  - "241"
+  - "20"
+can-break: []
+floatSpawnPos: []
+
+roomStartMessage:
+  - ""
+
+
